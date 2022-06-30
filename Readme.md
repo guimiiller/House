@@ -1,1 +1,1 @@
-Nesse projeto eu crio um site de Design de Interiores
+Nesse projeto eu crio uma Landing Page para criar o design de uma casa
